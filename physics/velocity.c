@@ -2,6 +2,8 @@
 /*Velocity is a measure of how quickly an object moves. 
 So, the velocity is the change in the position of an object, 
 divided by the time.*/
+
+/* Velocity = final position - initial position / time */
 #include <stdio.h>
 
 int main(void) {
